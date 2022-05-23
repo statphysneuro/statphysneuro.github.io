@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-team-js",
+    "path": "/team/ingrosso/",
+    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"Alessandro Ingrosso"},"fields":{"slug":"/team/ingrosso/"},"html":""}},"pageContext":{"id":"6d991ddc-b5b4-536d-ab98-494c4fc75833"}},
+    "staticQueryHashes": ["1820306268","1911626797","239876865","3041911663","4266893431","748283036","760941739"]}

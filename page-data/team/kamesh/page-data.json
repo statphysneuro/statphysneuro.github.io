@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-team-js",
+    "path": "/team/kamesh/",
+    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"Kamesh Krishnamurty"},"fields":{"slug":"/team/kamesh/"},"html":""}},"pageContext":{"id":"59f62f6b-d312-5517-a841-742b3979b0f5"}},
+    "staticQueryHashes": ["1820306268","1911626797","239876865","3041911663","4266893431","748283036","760941739"]}
