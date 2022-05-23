@@ -7,7 +7,7 @@
     "develop": "gatsby develop",
     "start": "npm run develop",
     "build": "gatsby build",
-    "deploy": "gatsby build && gh-pages -d public -b main"
+    "deploy": "gatsby build && gh-pages -d public -b gh-pages"
   },
   "engines": {
     "node": ">=14"
