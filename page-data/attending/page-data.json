@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-basic-js",
-    "path": "/attending",
-    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"Attending","path":"/attending"},"fields":{"slug":"/basic/attending/"},"html":"<p>Attendance is free, but we ask attendees to register so that we can keep track\nof the numbers. If you are planning on coming, please register using <a href=\"https://forms.gle/rW3T335brADJSw6D8\">this\nform</a>.</p>"}},"pageContext":{"id":"eae4e054-5b61-5796-b265-9868baebdeb5"}},
-    "staticQueryHashes": ["1820306268","1911626797","239876865","3041911663","4266893431","748283036","760941739"]}
