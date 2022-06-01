@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-team-js",
+    "path": "/team/nicolas-brunel/",
+    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"Nicolas Brunel"},"fields":{"slug":"/team/nicolas-brunel/"},"html":""}},"pageContext":{"id":"ae4a6523-a8e6-5fea-8bb5-bdfdd2b8bad7"}},
+    "staticQueryHashes": ["1820306268","1911626797","239876865","3041911663","4266893431","748283036","760941739"]}
