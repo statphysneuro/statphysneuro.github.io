@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-basic-js",
+    "path": "/schedule",
+    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"Schedule","path":"/schedule"},"fields":{"slug":"/basic/schedule/"},"html":"<p>Here you can find the - continuously updated - schedule of the conference.</p>\n<h2>Overview</h2>\n<img src=\"../images/schedule.png\" width=\"80%\" alt=\"The schedule of the conference\"/>"}},"pageContext":{"id":"d9a44e65-ecec-5d94-ae67-a0ca5ceabb4a"}},
+    "staticQueryHashes": ["1820306268","1911626797","239876865","3041911663","4266893431","748283036","760941739"]}
