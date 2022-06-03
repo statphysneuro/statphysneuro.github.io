@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-team-js",
     "path": "/team/mastrogiuseppe/",
-    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"Francesca Mastrogiuseppe"},"fields":{"slug":"/team/mastrogiuseppe/"},"html":""}},"pageContext":{"id":"e8b7f7ab-2150-5dd4-959b-3558012841c2"}},
+    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"Francesca Mastrogiuseppe"},"fields":{"slug":"/team/mastrogiuseppe/"},"html":"<p>Quality of the internal representation shapes learning performance in recurrent neural networks</p>"}},"pageContext":{"id":"e8b7f7ab-2150-5dd4-959b-3558012841c2"}},
     "staticQueryHashes": ["1820306268","1911626797","239876865","3041911663","4266893431","748283036","760941739"]}

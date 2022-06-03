@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-team-js",
     "path": "/team/kamesh/",
-    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"Kamesh Krishnamurty"},"fields":{"slug":"/team/kamesh/"},"html":""}},"pageContext":{"id":"d293a12e-b9a5-5646-9b88-a947088f37db"}},
+    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"Kamesh Krishnamurty"},"fields":{"slug":"/team/kamesh/"},"html":"<p>TBC</p>"}},"pageContext":{"id":"d293a12e-b9a5-5646-9b88-a947088f37db"}},
     "staticQueryHashes": ["1820306268","1911626797","239876865","3041911663","4266893431","748283036","760941739"]}

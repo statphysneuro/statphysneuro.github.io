@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-team-js",
     "path": "/team/anselmi/",
-    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"Fabio Anselmi"},"fields":{"slug":"/team/anselmi/"},"html":""}},"pageContext":{"id":"9ac7c395-ec2c-5065-b618-9bf592c1cac9"}},
+    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"Fabio Anselmi"},"fields":{"slug":"/team/anselmi/"},"html":"<p>A Fourier analysis of neural networks preferred features for recognition</p>"}},"pageContext":{"id":"9ac7c395-ec2c-5065-b618-9bf592c1cac9"}},
     "staticQueryHashes": ["1820306268","1911626797","239876865","3041911663","4266893431","748283036","760941739"]}
