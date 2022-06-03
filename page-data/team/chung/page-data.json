@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-team-js",
     "path": "/team/chung/",
-    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"SueYeon Chung"},"fields":{"slug":"/team/chung/"},"html":"<p>TBC</p>"}},"pageContext":{"id":"0fa5fffb-1ce7-5882-a476-06f0ff574462"}},
+    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"SueYeon Chung"},"fields":{"slug":"/team/chung/"},"html":"<p>Structure, Function and Learning in Distributed Neuronal Networks</p>"}},"pageContext":{"id":"0fa5fffb-1ce7-5882-a476-06f0ff574462"}},
     "staticQueryHashes": ["1820306268","1911626797","239876865","3041911663","4266893431","748283036","760941739"]}
