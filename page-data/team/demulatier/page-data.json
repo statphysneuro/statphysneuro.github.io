@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-team-js",
     "path": "/team/demulatier/",
-    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"Clélia de Mulatier"},"fields":{"slug":"/team/demulatier/"},"html":"<p>TBC</p>"}},"pageContext":{"id":"6a6e6887-5c0c-5054-9e36-5b6c338c156a"}},
+    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"Clélia de Mulatier"},"fields":{"slug":"/team/demulatier/"},"html":"<p>Inferring communities of neurons from their activity using spin models: when\nsimple matters!</p>"}},"pageContext":{"id":"6a6e6887-5c0c-5054-9e36-5b6c338c156a"}},
     "staticQueryHashes": ["1820306268","1911626797","239876865","3041911663","4266893431","748283036","760941739"]}
