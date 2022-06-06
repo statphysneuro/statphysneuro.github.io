@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-team-js",
     "path": "/team/sharpee/",
-    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"Tatyana Sharpee"},"fields":{"slug":"/team/sharpee/"},"html":"<p>TBC</p>"}},"pageContext":{"id":"57a63861-5d17-55bb-952e-4f8f3fa13421"}},
+    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"Tatyana Sharpee"},"fields":{"slug":"/team/sharpee/"},"html":"<p>Minimizing information loss in large neural circuits: the role of spike-timing\ndependent plasticity, modulation, and inhibitory neurons.</p>"}},"pageContext":{"id":"57a63861-5d17-55bb-952e-4f8f3fa13421"}},
     "staticQueryHashes": ["1820306268","1911626797","239876865","3041911663","4266893431","748283036","760941739"]}
