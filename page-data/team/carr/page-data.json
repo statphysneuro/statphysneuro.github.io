@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-team-js",
     "path": "/team/carr/",
-    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"Jon Carr"},"fields":{"slug":"/team/carr/"},"html":"<p>Minimizing uncertainty in visual word recognition: A Bayesian model and\nexperiments with artificial languages</p>"}},"pageContext":{"id":"5e364125-1572-5c26-abea-27246e9c4b71"}},
+    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"Jon Carr"},"fields":{"slug":"/team/carr/"},"html":"<p>Minimizing uncertainty in visual word recognition: A Bayesian model and\nexperiments with artificial languages</p>"}},"pageContext":{"id":"7560eb0e-5ca0-56c8-ae05-5d281c2cc757"}},
     "staticQueryHashes": ["1820306268","1911626797","239876865","3041911663","4266893431","748283036","760941739"]}

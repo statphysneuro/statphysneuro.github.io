@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-team-js",
     "path": "/team/michele-allegra/",
-    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"Michele Allegra"},"fields":{"slug":"/team/michele-allegra/"},"html":"<p>Approaches to brain controllability</p>"}},"pageContext":{"id":"e6ee064f-1a39-5549-992c-faca7cde64f6"}},
+    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"Michele Allegra"},"fields":{"slug":"/team/michele-allegra/"},"html":"<p>Approaches to brain controllability</p>"}},"pageContext":{"id":"f8c28479-4257-5543-97c4-0f4e6655720c"}},
     "staticQueryHashes": ["1820306268","1911626797","239876865","3041911663","4266893431","748283036","760941739"]}

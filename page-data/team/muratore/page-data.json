@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-team-js",
     "path": "/team/muratore/",
-    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"Paolo Muratore"},"fields":{"slug":"/team/muratore/"},"html":"<p>Prune and distill: similar reformatting of image information along rat visual\ncortex and deep neural networks</p>"}},"pageContext":{"id":"247718d9-91ea-5396-bdd8-79a6f14f8f18"}},
+    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"Paolo Muratore"},"fields":{"slug":"/team/muratore/"},"html":"<p>Prune and distill: similar reformatting of image information along rat visual\ncortex and deep neural networks</p>"}},"pageContext":{"id":"13325682-e06e-5b14-8da4-a85e9d60e6b6"}},
     "staticQueryHashes": ["1820306268","1911626797","239876865","3041911663","4266893431","748283036","760941739"]}

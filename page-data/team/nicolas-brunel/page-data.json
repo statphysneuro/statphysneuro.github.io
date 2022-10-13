@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-team-js",
     "path": "/team/nicolas-brunel/",
-    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"Nicolas Brunel"},"fields":{"slug":"/team/nicolas-brunel/"},"html":"<p>From fixed point attractors to sequential activity in recurrent neural networks</p>"}},"pageContext":{"id":"ae4a6523-a8e6-5fea-8bb5-bdfdd2b8bad7"}},
+    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"Nicolas Brunel"},"fields":{"slug":"/team/nicolas-brunel/"},"html":"<p>From fixed point attractors to sequential activity in recurrent neural networks</p>"}},"pageContext":{"id":"89bab819-f317-5b80-810c-203f8c21dcaf"}},
     "staticQueryHashes": ["1820306268","1911626797","239876865","3041911663","4266893431","748283036","760941739"]}

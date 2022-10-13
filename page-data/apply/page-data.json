@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-basic-js",
+    "path": "/apply",
+    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"Apply","path":"/apply"},"fields":{"slug":"/basic/apply/"},"html":"<p>To apply, please fill in <a href=\"https://forms.gle/gUxZaFp9AhSMQAMc9\">this form</a>.</p>\n<p>The deadline for applications is on <span style=\"color: red; font-weight:\nbold\">Dec 1st</span> at midnight (anywhere on earth).</p>"}},"pageContext":{"id":"0993d082-18ce-5063-93a5-9c4a3a7ada21"}},
+    "staticQueryHashes": ["1820306268","1911626797","239876865","3041911663","4266893431","748283036","760941739"]}

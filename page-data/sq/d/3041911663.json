@@ -1,1 +1,1 @@
-{"data":{"allMainMenuJson":{"edges":[{"node":{"name":"Schedule","url":"/schedule/","weight":2}},{"node":{"name":"Speakers","url":"/team/","weight":3}},{"node":{"name":"About","url":"/about/","weight":4}}]}}}
+{"data":{"allMainMenuJson":{"edges":[{"node":{"name":"Schedule","url":"/schedule/","weight":2}},{"node":{"name":"Apply!","url":"/apply","weight":2}},{"node":{"name":"About","url":"/about/","weight":4}}]}}}
